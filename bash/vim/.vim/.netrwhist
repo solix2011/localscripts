@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/AMCC/yvo/working/workspace/refPlatforms/rnaa-86/draft/uboot/nand_spl/board/amcc/rnaa86/stage-2'
+let g:netrw_dirhist_2='/AMCC/yvo/working/workspace/refPlatforms/supported/eiger/uboot/.git'
+let g:netrw_dirhist_3='/AMCC/yvo/working/workspace/refPlatforms/keelback_rd/uboot/nand_spl/board/amcc/riviera/stage-2'
